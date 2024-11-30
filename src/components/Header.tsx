@@ -3,7 +3,7 @@ function Header() {
     <h1 className="text-2xl text-center font-bold md:text-3xl"> Amangeldi Akhanali</h1>
     <div className="grid grid-cols-3 text-center">
         <p>123-456-7890</p>
-        <p>email@yorku.ca</p>
+        <p>akhanali@yorku.ca</p>
         <p> Toronto, CA</p>
     </div>
 </div>
