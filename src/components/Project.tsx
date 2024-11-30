@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function Project(props){
+function Project(props:any){
     const [isOpen, setIsOpen] = useState(false);
     function handleToggle(){
         if(isOpen == true) {
